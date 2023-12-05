@@ -2,7 +2,7 @@
 FEM implementation of GBT for analysis of thin-walled curved pipe members 
 
 
-GBTCurvedPipeLinear is a Python code for stress and deformation analysis of curved thin-walled circular pipes based on the Generalized Beam Theory (GBT). This code is based on the paper: Vibration analysis of thin-walled pipes with circular axis using the Generalized Beam Theory, [https://e-pub.uni-weimar.de/opus4/frontdoor/index/index/docId/4572](https://doi.org/10.1016/j.tws.2021.107628)
+GBTCurvedPipeLinear is a Python code for stress and deformation analysis of curved thin-walled circular pipes based on the Generalized Beam Theory (GBT). This code is based on the paper: Generalized Beam Theory formulation for thin-walled pipes with circular axis, https://doi.org/10.1016/j.tws.2020.107243
 
 
 
