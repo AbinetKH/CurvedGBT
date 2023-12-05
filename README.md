@@ -28,10 +28,10 @@ We recomend to use Anaconda/Spyder editor and library manager
 ## Numerical Example
 The numerical example is developed to validate and illustrate the application and capabilities of the linear GBT formulation and its numerical implementation. Here, a short cantilever pipe is considered as a numerical example with the physical properties and boundary conditions shown below.
 
-![Example](https://github.com/AbinetKH/GBTCurvedPipeLinear/tree/main/doc/out_of_plain_loading_GBT.png)
+![Example](https://github.com/AbinetKH/GBTCurvedPipeLinear/blob/main/doc/example.png)
 
 ### Deformation shape of a short fixed pipe
-![Deformation shape of a short pipe](https://github.com/AbinetKH/GBTCurvedPipeLinear/tree/main/doc/plotDeformed.jpg)
+![Deformation shape of a short pipe](https://github.com/AbinetKH/GBTCurvedPipeLinear/blob/main/doc/plotDeformed.jpg)
 
 Citation
 --------
