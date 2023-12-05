@@ -39,4 +39,4 @@ The numerical example is developed to validate and illustrate the application an
 Citation
 --------
 
-If you use any of the GBTStraightPipeLinear packages to produce scientific articles, please cite: https://e-pub.uni-weimar.de/opus4/frontdoor/index/index/docId/4572
+If you use any of the GBT_Curved_Linear packages to produce scientific articles, please cite:  https://doi.org/10.1016/j.tws.2020.107243
