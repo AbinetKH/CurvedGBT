@@ -28,21 +28,13 @@ We recomend to use Anaconda/Spyder editor and library manager
 ## Numerical Example
 The numerical example is developed to validate and illustrate the application and capabilities of the linear GBT formulation and its numerical implementation. Here, a short cantilever pipe is considered as a numerical example with the physical properties and boundary conditions shown below.
 
-![example](https://github.com/AbinetKH/GBTStraightPipeLinear/blob/master/doc/example.png)
+![example](https://github.com/AbinetKH/GBT_Curved_Linear/tree/main/doc/example_.png)
 
 
 
-### The generalized modal amplitude vector
-![The generalized modal amplitude vector](https://github.com/AbinetKH/GBTStraightPipeLinear/blob/master/doc/dispVector.png)
-
-### Force vector
-![Force vector](https://github.com/AbinetKH/GBTStraightPipeLinear/blob/master/doc/externalForceVector.png)
-
-### Element stiffness matrix
-![Element stiffness matrix](https://github.com/AbinetKH/GBTStraightPipeLinear/blob/master/doc/stiffnessmatrix.png)
 
 ### Deformation shape of a short cantilever pipe
-![Deformation shape of a short cantilever pipe](https://github.com/AbinetKH/GBTStraightPipeLinear/blob/master/doc/plot.png)
+![Deformation shape of a short pipe](https://github.com/AbinetKH/GBT_Curved_Linear/tree/main/doc/plot_deformation.png)
 
 Citation
 --------
