@@ -30,9 +30,6 @@ The numerical example is developed to validate and illustrate the application an
 
 ![example](https://github.com/AbinetKH/GBTCurvedPipeLinear/tree/main/doc/example.png)
 
-
-![example](https://github.com/AbinetKH/GBTCurvedPipeLinear/tree/main/doc/example.png)
-
 ### Deformation shape of a short cantilever pipe
 ![Deformation shape of a short pipe](https://github.com/AbinetKH/GBTCurvedPipeLinear/tree/main/doc/plotDeformed.jpg)
 
