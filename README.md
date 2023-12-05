@@ -31,7 +31,7 @@ The numerical example is developed to validate and illustrate the application an
 ![Example](https://github.com/AbinetKH/GBTCurvedPipeLinear/blob/main/doc/example.png)
 
 ### Deformation shape of a short fixed pipe
-![Deformation shape of a short pipe](https://github.com/AbinetKH/GBTCurvedPipeLinear/blob/main/doc/plotDeformed.jpg)
+![Deformation shape of a short pipe](https://github.com/AbinetKH/GBTCurvedPipeLinear/blob/main/doc/plotDeformed.png)
 
 Citation
 --------
